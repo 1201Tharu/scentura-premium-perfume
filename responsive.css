@@ -156,15 +156,8 @@ header{
 
 
 nav{
-
-    position:absolute;
-    top:70px;
-    left:-100%;
-    width:100%;
-    background:white;
-    transition:.4s;
-    box-shadow:0 10px 20px rgba(0,0,0,.1);
-
+    display:block;
+}
 }
 
 
